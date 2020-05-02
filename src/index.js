@@ -1,0 +1,1 @@
+const textJustify = (input, L) => {     return input; } input = "Coursera provides universal access to the world's best education, partnering with top universities and organizations to offer courses online."; L = 30;  console.log(textJustify(input, L));

@@ -11,7 +11,7 @@
     "react-transition-group": "^4.3.0",
     "spooner": "^2.1.9",
     "styled-components": "^5.0.1",
-    "underscore": "^1.9.2",
+    "underscore": "^1.12.1",
     "uuid": "^7.0.2"
   },
   "description": "",
